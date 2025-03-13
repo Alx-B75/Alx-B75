@@ -1,12 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nenad Kalicanin</h1>
-<h3 align="center">A developer from Dortmund, Germany / Sabac, Serbia</h3>
+<h1 align="center">Hi 👋, I'm Alexander Bunting</h1>
+<h3 align="center">A marketer and developer from Frankfurt, Germany / Derby, UK</h3>
 
-- 🌱 I’m currently learning **Flutter, Python, React, Vue, Cybersecurity...**
+- 🌱 I’m currently learning **Python, AI Engineering...**
 
-- Dev Profile Page on  [NenDev](https://nenadkalicanin.netlify.app)
-- 📝 I regularly write articles on [DOCUVERSE](https://docuverse.netlify.app)
-
-- 📫 How to reach me **nenad99@hotmail.de**
+- 📫 How to reach me **alexander_bunting@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
